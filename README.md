@@ -7,10 +7,9 @@
 💼 Internship: Cloud Logic Company  
 🌱 Currently learning **Java** and exploring system design & backend development.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue)](sachin1ab)
-[![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=social)](sachin1ab?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=social)](https://github.com/sachin1ab?tab=stars)
-
+[![Profile Views](https://komarev.com/ghpvc/?username=sachin1ab&color=blue)](https://github.com/sachin1ab)
+[![Followers](https://img.shields.io/github/followers/sachin1ab?style=social)](https://github.com/sachin1ab?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/sachin1ab?style=social)](https://github.com/sachin1ab?tab=stars)
 ---
 
 ## 🧰 Tech Stack
